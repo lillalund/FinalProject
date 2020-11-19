@@ -51,23 +51,11 @@ body {
     float: right;
     /*width: 20%;*/
     padding: 10px 10px 0px 10px;
-
-
 }
-.swap-on-hover {
 
-  /*position: relative;
-	margin:  0 auto;
-	max-width: 400px;*/
-}
 .swap-on-hover img {
-  position: absolute;
-  /*top:0;
-  left:0;*/
-	overflow: hidden;
-	/* Sets the width and height for the images
-	width: 400px;
-	height: 400px;*/
+    position: absolute;
+    overflow: hidden;
 }
 .swap-on-hover .swap-on-hover__front-image {
   z-index: 9999;
@@ -80,19 +68,14 @@ body {
 
 /******************** HEADER -> STOPP *************************/
 
+
 /******************** BILDE -> START *************************/
 
 .bilde{
-    /*border: 10px solid white;*/
     padding: 30px 20px 15px 20px;
-
 }
 
-
 /******************** BILDE -> STOPP *************************/
-
-
-
 
 
 /******************** RESPONSIVE SKJERM -> START *************************/
@@ -112,23 +95,17 @@ body {
    width: 100%;
    padding: 0px 10px 0px 0px;
    }
-   /*.col-6 {
-   width: 50%;
-   padding: 0px 10px 0px 10px;
-   }*/
+
   .navbar{
       float: right;
-      /*width: 20%;*/
       padding: 0px 50px 3px 0px;
       margin:  0px 50px 0px 0px;
   }*/
   .logo{
-    float: none;
+    padding: 15px 15px 0px 15px;
   }
   .bilde{
-      /*border: 10px solid white;*/
       padding: 50px 15px 15px 15px;
-
   }
 }
 
