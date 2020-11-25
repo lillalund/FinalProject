@@ -120,7 +120,7 @@ h4{
     color: white;
     text-align: left;
     text-shadow: 2px 2px 10px #5B5B5B;
-    font-size: 20px;
+    font-size: 24px;
     padding: 10px 20px 0px 20px;
 }
 
@@ -155,7 +155,7 @@ p{
 
 .link{
     text-decoration: none;
-    color: #21CE68;
+    color: #69DCE6;
 }
 
 .overskrift{
@@ -168,7 +168,11 @@ p{
     font-family: arial, sans-serif;
     color: white;
     text-shadow: 2px 2px 10px #5B5B5B;
+    padding: 0px 15px 0px 15px;
+}
 
+.farge{
+    color: #21CE68;
 }
 
 /* ================================================================= */
