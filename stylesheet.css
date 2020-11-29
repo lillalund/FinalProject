@@ -81,9 +81,10 @@ body {
 }
 
 .mockup{
-    /*max-height: 500px;
-    max-width: 637px  */
-    margin-top : 50px;
+   /* max-width: 40%;
+    max-width: 637px
+    margin-top : 50px;*/
+    padding: 60px 30px 0px 30px;
 }
 
 .gif{
@@ -167,6 +168,15 @@ p{
     font-size: 25px;
     font-weight: 400;
     font-family: arial, sans-serif;
+    padding: 0px 0px 0px 0px;
+}
+
+.ingress{
+    font-size: 21px;
+}
+
+.marg{
+    margin: 30px;
 }
 
 .liste{
@@ -180,6 +190,10 @@ p{
     color: #21CE68;
 }
 
+.fargeTo{
+    color: #FC5F5F;
+}
+
 /* ================================================================= */
 /* ====================== RESPONSIVE SKJERM ======================== */
 /* ================================================================= */
@@ -187,6 +201,9 @@ p{
 @media only screen and (max-width: 1100px) {
     .col-8 {width: 50%;}
     .col-4 { width: 50%;}
+    .mockup{
+    padding: 130px 30px 0px 30px;
+    }
 }
 
 @media only screen and (max-width: 700px) {
@@ -196,6 +213,8 @@ p{
 
    .col-61 {width: 100%;}
    .col-8 {width: 100%;}
+   .col-5 {width: 100%;}
+   .col-7 {width: 100%;}
    .col-4 {
    width: 100%;
    padding: 0px 10px 0px 0px;
@@ -229,5 +248,9 @@ p{
       padding: 30px 0px 0px 0px;
 
     }
+
+   .mockup{
+      padding: 0px 30px 0px 30px;
+   }
 }
 

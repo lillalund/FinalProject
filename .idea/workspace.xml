@@ -20,10 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2a1a135d-a12e-42c3-a015-9172eb955e55" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/source.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/some.html" beforeDir="false" afterPath="$PROJECT_DIR$/some.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/stylesheet.css" afterDir="false" />
     </list>
@@ -81,6 +79,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="722" y="371" key="SettingsEditor" timestamp="1606152544136">
